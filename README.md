@@ -22,7 +22,7 @@ The Extra Trees Classifier model is trained on historical weather data to predic
     - Maximum depth: 23
     - Random state: 42
 
-  **Performance Metrics**
+ **Performance Metrics**
   
 The model performance is evaluated using the following metrics:
 
